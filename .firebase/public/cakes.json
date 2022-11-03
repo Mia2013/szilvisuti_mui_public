@@ -1,0 +1,409 @@
+{
+    "cakes": [
+        {
+            "name": "GESZTENYE TORTA",
+            "slice8": "4800 FT",
+            "slice12": "7000 FT",
+            "slice16": "8800 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha vaniliás piskóta lapok között tejszínes gesztenyekrém, tejszínhabbal bevonva, étcsokoládé díszekkel"
+        },
+        {
+            "name": "PUNCS TORTA",
+            "slice8": "4800 FT",
+            "slice12": "7000 FT",
+            "slice16": "8800 FT",
+            "allergenic": "tojás, glutén",
+            "description": "Puha vaniliás piskóta, közte szaftos puncstöltelékkel, fondánnal burkolva és díszítve"
+        },
+        {
+            "name": "SÁRGABARACKOS TÚRÓTORTA",
+            "slice8": "5300 FT",
+            "slice12": "7800 FT",
+            "slice16": "9800 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha vaniliás piskóta lapok között sárgabarackkal megszórt citromos túrótöltelék, tejszínhabbal bevonva"
+        },
+        {
+            "name": "RÁKÓCZI TÚRÓS TORTA",
+            "slice8": "5300 FT",
+            "slice12": "7800 FT",
+            "slice16": "9800 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Omlós tészta alapon citromos túrótöltelék, tetején habcsókokkal és sárgabaracklekvárral"
+        },
+        {
+            "name": "TÚRÓ RUDI TORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha csokoládés piskóta lapok között étcsokoládécseppel megszórt citromos túrókrém, tejszínhabbal bevonva, étcsokoládécsurgatással és túró rudival díszítve"
+        },
+        {
+            "name": "JOGHURTTORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha vaniliás-citromos piskóta lapokon joghurtos-tejszínes krém, tetején tejszínhabbal és gyümölcsökkel díszítve"
+        },
+        {
+            "name": "OROSZKRÉM TORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha vaniliás piskóta lapok között kandírozott gyümölcsökkel dúsított oroszkrém, tejszínhabbal bevonva és kandírozott cseresznyével, csokoládéval díszítve"
+        },
+        {
+            "name": "TIRAMISU TORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej, mandula",
+            "description": "Puha vaniliás piskóta lapok kávés cukorsziruppal locsolva, köztük mandula likőrrel ízesített mascarpones krém kakaóporral meghintve, tejszínhabbal bevonva"
+        },
+        {
+            "name": "EPER TORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha vaniliás-citromos piskóta lapok között friss eperből készült mascarpones-tejszínes krém, tejszínhabbal és gyümölcsökkel díszítve"
+        },
+        {
+            "name": "MÁLNA TORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha vaniliás-citromos piskóta lapok között friss málnából készült mascarpones-tejszínes krém, tejszínhabbal és gyümölcsökkel díszítve"
+        },
+        {
+            "name": "ERDEI GYÜMÖLCSÖS TORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha vaniliás-citromos piskóta lapok között erdei gyümölcsökkel dúsított mascarpones-tejszínes krém, tejszínhabbal és gyümölcsökkel díszítve"
+        },
+        {
+            "name": "FEKETE ERDŐ TORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha csokoládés piskóta lapok között cseresznyepálinkával ízesített tejszínhabkrém, csokoládés tejszínhabkrém és meggykrém váltakozik, tejszínhabbal bevonva, csokoládéval díszítve"
+        },
+        {
+            "name": "DOBOS TORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Klasszikus Dobos torta"
+        },
+        {
+            "name": "DIÓ TORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej, dió",
+            "description": "Diós piskóta lapok között diós vaniliás krém, tejszínhabbal bevonva, csokoládéval díszítve"
+        },
+        {
+            "name": "KÁVÉTORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Csokoládés piskóta kávés krémmel töltve, tejszínhabbal bevonva, csokoládéval díszítve"
+        },
+        {
+            "name": "CSOKOLÁDÉTORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha vaniliás piskóta lapok között dús csokoládékrém, igény szerint csokoládés krémmel vagy tejszínhabbal bevonva, csokoládéval díszítve"
+        },
+        {
+            "name": "FEHÉRCSOKOLÁDÉ TORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha csokoládés piskóta lapok között dús fehércsokoládékrém, igény szerint fehércsokoládés krémmel vagy tejszínhabbal bevonva, csokoládéval díszítve"
+        },
+        {
+            "name": "MÁLNÁS-TÚRÓS TORTA",
+            "slice8": "5800 FT",
+            "slice12": "8400 FT",
+            "slice16": "10000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha vaniliás piskóta lapok között citromos túrótöltelék friss málnakrémmel megkenve, tejszínhabbal bevonva"
+        },
+        {
+            "name": "TRIPLA CSOKIS TORTA",
+            "slice8": "6000 FT",
+            "slice12": "8800 FT",
+            "slice16": "11000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Csokoládés vajas piskótán étcsokoládés, tejcsokoládés és fehércsokoládés krém, tejszínhabbal és csokoládéval díszítve"
+        },
+        {
+            "name": "CSOKIS-MEGGYES TORTA",
+            "slice8": "6000 FT",
+            "slice12": "8800 FT",
+            "slice16": "11000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha vaniliás piskóta lapok között dús csokoládékrém közepében meggypürével, igény szerint csokoládés krémmel vagy tejszínhabbal bevonva, csokoládéval díszítve"
+        },
+        {
+            "name": "CSOKIS-MÁLNÁS TORTA",
+            "slice8": "6000 FT",
+            "slice12": "8800 FT",
+            "slice16": "11000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha kakós piskóta lapok között dús csokoládékrém közepében málnavelővel, igény szerint csokoládés krémmel vagy tejszínhabbal bevonva, csokoládéval díszítve"
+        },
+        {
+            "name": "CITROMTORTA",
+            "slice8": "6000 FT",
+            "slice12": "8800 FT",
+            "slice16": "11000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha vaniliás piskóta lapok között mascarponeval lazított angol citromkrém, tejszínhabbal bevonva"
+        },
+        {
+            "name": "SACHER TORTA",
+            "slice8": "6000 FT",
+            "slice12": "8800 FT",
+            "slice16": "11000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Klasszikus Bécsi Sacher  torta"
+        },
+        {
+            "name": "VANILIÁS KARAMELLTORTA",
+            "slice8": "6000 FT",
+            "slice12": "8800 FT",
+            "slice16": "11000 FT",
+            "allergenic": "tojás, glutén, tej, mandula, DIÓ",
+            "description": "Vékony csokoládés-DIÓS piskóta lapok között tejszínes karamellkrém, tejszínhabbal bevonva, csokoládéval díszítve"
+        },
+        {
+            "name": "ESZTERHÁZY TORTA",
+            "slice8": "6300 FT",
+            "slice12": "9300 FT",
+            "slice16": "12000 FT",
+            "allergenic": "tojás, glutén, tej, dió",
+            "description": "Klasszikus Eszterházy torta, diós piskóta lapokkal, tejszínes diókrémmel"
+        },
+        {
+            "name": "FEHÉRCSOKIS MÁLNÁS TORTA",
+            "slice8": "6300 FT",
+            "slice12": "9300 FT",
+            "slice16": "12000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha csokoládés piskóta lapok között fehércsokoládés-kókuszos krém málnavelővel meglocsolva, tejszínhabbal bevonva, málnával és csokoládéval díszítve"
+        },
+        {
+            "name": "FEHÉRCSOKIS-KÓKUSZOS-MANGÓS TORTA",
+            "slice8": "6300 FT",
+            "slice12": "9300 FT",
+            "slice16": "12000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha vaniliás piskóta lapok között fehércsokoládés-kókuszos krém, tetején mangózselé, tejszínhabbal és csokoládéval díszítve"
+        },
+        {
+            "name": "OREOS TORTA",
+            "slice8": "6300 FT",
+            "slice12": "9300 FT",
+            "slice16": "12000 FT",
+            "allergenic": "tojás, glutén, tej",
+            "description": "Puha csokoládés piskóta lapok között tejszínes-oreo kekszes krém oreo kekszdarabkákkal megszórva, tejszínhabbal bevonva, étcsokoládé csurgatással és fehércsokoládé és keksz-díszekkel"
+        },
+        {
+            "name": "KINDER BUENO TORTA",
+            "slice8": "6300 FT",
+            "slice12": "9300 FT",
+            "slice16": "12000 FT",
+            "allergenic": "tojás, glutén, tej, mogyoró",
+            "description": "Puha csokoládés piskóta lapok között mascarpones-mogyorós krém, tejszínhabbal bevonva, étcsokoládéval csurgatva, Kinder Buenoval és csokoládéval díszítve"
+        },
+        {
+            "name": "KINDER MAXI KING TORTA",
+            "slice8": "6300 FT",
+            "slice12": "9300 FT",
+            "slice16": "12000 FT",
+            "allergenic": "tojás, glutén, tej, mogyoró",
+            "description": "Vékony kakaós-mogyorós piskóta lapok között fehércsokoládés és karamellás krém váltakozik, amelyek karamelldarabokkal és tört mogyoróval vannak megszórva, külseje tejszínhabbal bevonva, étcsokoládéval csurgatva és Kinder Maxi Kinggel díszítve"
+        },
+        {
+            "name": "SOMLÓI GALUSKA TORTA",
+            "slice8": "6300 FT",
+            "slice12": "9300 FT",
+            "slice16": "12000 FT",
+            "allergenic": "tojás, glutén, tej, dió",
+            "description": "Diós, csokis és vaniliás lapok között rumos mazsolával és dióval szórt vaniliás krém, tejszínhabbal burkolva, csokoládéval csurgatva, tejszínhabbal és csokoládéval díszítve"
+        },
+        {
+            "name": "PISZTÁCIÁS-MÁLNÁS TORTA",
+            "slice8": "6800 FT",
+            "slice12": "10000 FT",
+            "slice16": "13000 FT",
+            "allergenic": "tojás, glutén, tej, pisztácia",
+            "description": "Csokoládés piskóta lapok között egy réteg pistáciás krém és egy réteg málnás krém"
+        }
+    ],
+    "desserts": [
+
+        {
+            "name": "CUPCAKE",
+            "price": "600 FT/DB",
+            "allergenic": "tojás, glutén, tej"
+        },
+        {
+            "name": "CAKE POPS",
+            "price": "500 FT/DB",
+            "allergenic": "tojás, glutén, tej"
+        },
+        {
+            "name": "PROFITEROL",
+            "price": "550 FT/2 DB",
+            "allergenic": "tojás, glutén, tej"
+        },
+        {
+            "name": "KÉPVISELŐFÁNK",
+            "price": "550 FT/DB",
+            "allergenic": "tojás, glutén, tej, mandula"
+        },
+        {
+            "name": "HÁZI KRÉMES",
+            "price": "550 FT/DB",
+            "allergenic": "tojás, glutén, tej"
+        },
+        {
+            "name": "RÁKÓCZI TÚRÓS TART",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, glutén, tej, mandula"
+        },
+        {
+            "name": "NARANCSOS-KARAMELLÁS VANILIÁS TART",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, glutén, tej, mandula"
+        },
+        {
+            "name": "VANÍLIÁS-ÁFONYÁS TART",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, glutén, tej, mandula"
+        },
+        {
+            "name": "CSOKOLÁDÉS-MÁLNÁS TART",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, glutén, tej, mandula"
+        },
+        {
+            "name": "CITROMOS TART",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, glutén, tej, mandula"
+        },
+        {
+            "name": "TIRAMISU KOCKA",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, glutén, tej, mandula"
+        },
+        {
+            "name": "MÁLNÁS-TÚRÓS KOCKA",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, glutén, tej"
+        },
+        {
+            "name": "JOGHURTOS KOCKA",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, glutén, tej"
+        },
+        {
+            "name": "OROSZKRÉM KOCKA",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, glutén, tej"
+        },
+        {
+            "name": "SOMLÓI KOCKA",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, glutén, tej, dió"
+        },
+        {
+            "name": "FEHÉRCSOKOLÁDÉS-KÓKUSZOS KOCKA MANGÓZSELÉVEL",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, glutén, tej"
+        },
+        {
+            "name": "FEHÉRCSOKOLÁDÉS-MÁKOS KOCKA",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, glutén, tej"
+        },
+        {
+            "name": "PISZTÁCIÁS-MÁLNÁS KOCKA",
+            "price": "950 FT/DB",
+            "allergenic": "tojás, glutén, tej, PISZTÁCIA"
+        }
+    ],
+    "freeFromDesserts": [
+        {
+            "name": "GLUTÉNMENTES JOGHURTOS GYÜMÖLCSÖS KOCKA",
+            "price": "850 FT/DB",
+            "allergenic": "tojás, tej"
+        },
+        {
+            "name": "GLUTÉN ÉS TEJMENTES KÓKUSZOS-MANGÓS KOCKA",
+            "price": "1090 FT/DB",
+            "allergenic": "tojás"
+        },
+        {
+            "name": "GLUTÉN- ÉS LAKTÓZMENTES PISZTÁCIÁS-MÁLNÁS KOCKA",
+            "price": "1090 FT/DB",
+            "allergenic": "tojás, tej"
+        }
+    ],
+    "cookies": [
+
+        {
+            "name": "LINZER / ISLER",
+            "price": "4300 FT/KG",
+            "allergenic": "tojás, glutén, tej",
+            "description": "édes"
+        },
+        {
+            "name": "KÓKUSZKOCKA",
+            "price": "4800 FT/KG",
+            "allergenic": "tojás, glutén, tej",
+            "description": "édes"
+        },
+        {
+            "name": "NÉRÓ",
+            "price": "5000 FT/KG",
+            "allergenic": "tojás, glutén, tej",
+            "description": "édes"
+        },
+        {
+            "name": "NEHÉZSÓS",
+            "price": "4800 FT/KG",
+            "allergenic": "tojás, glutén, tej",
+            "description": "sós"
+        },
+        {
+            "name": "SAJTOS POGÁCSA",
+            "price": "4800 FT/KG",
+            "allergenic": "tojás, glutén, tej",
+            "description": "sós"
+        },
+        {
+            "name": "SAJTOS ROLÓ",
+            "price": "4800 FT/KG",
+            "allergenic": "tojás, glutén, tej",
+            "description": "sós"
+        }
+    ]
+}
